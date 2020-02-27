@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5189979244",
+    "firebase_url": "https://almaras-eb733.firebaseio.com",
+    "project_id": "almaras-eb733",
+    "storage_bucket": "almaras-eb733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5189979244:android:1d0c561504026db82b5c49",
+        "android_client_info": {
+          "package_name": "com.esg.flutter_app_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5189979244-o0bjt338idkcm8bk6e4ebag689cfrmpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf8iRH63RURIlLjurHgFiWzuGsPpiKr8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5189979244-o0bjt338idkcm8bk6e4ebag689cfrmpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
